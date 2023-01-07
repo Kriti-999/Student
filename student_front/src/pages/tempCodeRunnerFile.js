@@ -1,0 +1,1 @@
+<Link to={"/"} className="text-2xl text-teal-200 font-semibold font-Montesarrat">Register Student</Link>
