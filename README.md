@@ -1,3 +1,3 @@
 # Student
-A react ,node js application
-Database used is MySql
+*A react ,node js application
+*Database used is MySql
